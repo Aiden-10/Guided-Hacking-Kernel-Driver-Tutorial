@@ -1,0 +1,19 @@
+﻿  GuidedHackingController.cpp
+C:\Users\aiden\Desktop\CSGO-main\GuidedHacking\GuidedHackingController\kernelinterface.hpp(55,22): warning C4244: '=': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+C:\Users\aiden\Desktop\CSGO-main\GuidedHacking\GuidedHackingController\GuidedHackingController.cpp(33,146): message : see reference to function template instantiation 'type KernelInterface::ReadVirtualMemory<uint32_t>(ULONG,ULONG,SIZE_T)' being compiled
+          with
+          [
+              type=uint32_t
+          ]
+C:\Users\aiden\Desktop\CSGO-main\GuidedHacking\GuidedHackingController\kernelinterface.hpp(76,23): warning C4244: '=': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+C:\Users\aiden\Desktop\CSGO-main\GuidedHacking\GuidedHackingController\GuidedHackingController.cpp(61,123): message : see reference to function template instantiation 'bool KernelInterface::WriteVirtualMemory<float>(ULONG,ULONG,type,SIZE_T)' being compiled
+          with
+          [
+              type=float
+          ]
+  Generating code
+  1 of 21 functions ( 4.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GuidedHackingController.vcxproj -> C:\Users\aiden\Desktop\CSGO-main\GuidedHacking\x64\Release\GuidedHackingController.exe

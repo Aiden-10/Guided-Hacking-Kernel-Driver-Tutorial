@@ -1,0 +1,23 @@
+﻿  Building 'GuidedHacking' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\GuidedHacking.inf
+  Stamping [Version] section with DriverVer=01/07/2023,0.9.18.72
+  events.c
+  GuidedHacking.vcxproj -> C:\Users\aiden\Desktop\CSGO-main\GuidedHacking\x64\Release\GuidedHacking.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\aiden\Desktop\CSGO-main\GuidedHacking\x64\Release\GuidedHacking.sys
+  
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\aiden\Desktop\CSGO-main\GuidedHacking\x64\Release\GuidedHacking\guidedhacking.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\aiden\Desktop\CSGO-main\GuidedHacking\x64\Release\GuidedHacking\guidedhacking.cat
+  
